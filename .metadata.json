@@ -2,5 +2,29 @@
   {
     "package": "amen",
     "oncran": true
+  },
+  {
+    "package": "covKCD",
+    "oncran": true
+  },
+  {
+    "package": "fabCI",
+    "oncran": true
+  },
+  {
+    "package": "FABInference",
+    "oncran": true
+  },
+  {
+    "package": "Rduino",
+    "oncran": true
+  },
+  {
+    "package": "rstiefel",
+    "oncran": true
+  },
+  {
+    "package": "sbgcop",
+    "oncran": true
   }
 ]
