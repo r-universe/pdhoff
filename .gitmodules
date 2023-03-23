@@ -13,6 +13,11 @@
 	url = https://github.com/pdhoff/covkcd
 	shallow = true
 	registered = true
+[submodule "eigenmodel"]
+	path = eigenmodel
+	url = https://github.com/cran/eigenmodel
+	shallow = true
+	registered = true
 [submodule "fabCI"]
 	path = fabCI
 	url = https://github.com/pdhoff/fabci
