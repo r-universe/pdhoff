@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "amen"]
 	path = amen
 	url = https://github.com/pdhoff/amen
-	shallow = true
-	registered = true
 [submodule "covKCD"]
 	path = covKCD
 	url = https://github.com/pdhoff/covkcd
-	shallow = true
-	registered = true
 [submodule "eigenmodel"]
 	path = eigenmodel
 	url = https://github.com/cran/eigenmodel
-	shallow = true
-	registered = true
 [submodule "fabCI"]
 	path = fabCI
 	url = https://github.com/pdhoff/fabci
-	shallow = true
-	registered = true
 [submodule "FABInference"]
 	path = FABInference
 	url = https://github.com/pdhoff/fabinference
-	shallow = true
-	registered = true
 [submodule "Rduino"]
 	path = Rduino
 	url = https://github.com/pdhoff/rduino
-	shallow = true
-	registered = true
 [submodule "rstiefel"]
 	path = rstiefel
 	url = https://github.com/pdhoff/rstiefel
-	shallow = true
-	registered = true
 [submodule "sbgcop"]
 	path = sbgcop
 	url = https://github.com/pdhoff/sbgcop
-	shallow = true
-	registered = true
