@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FABInference"]
+	path = FABInference
+	url = https://github.com/pdhoff/fabinference
+[submodule "Rduino"]
+	path = Rduino
+	url = https://github.com/pdhoff/rduino
 [submodule "amen"]
 	path = amen
 	url = https://github.com/pdhoff/amen
@@ -14,12 +20,6 @@
 [submodule "fabCI"]
 	path = fabCI
 	url = https://github.com/pdhoff/fabci
-[submodule "FABInference"]
-	path = FABInference
-	url = https://github.com/pdhoff/fabinference
-[submodule "Rduino"]
-	path = Rduino
-	url = https://github.com/pdhoff/rduino
 [submodule "rstiefel"]
 	path = rstiefel
 	url = https://github.com/pdhoff/rstiefel
