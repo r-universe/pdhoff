@@ -26,3 +26,6 @@
 [submodule "sbgcop"]
 	path = sbgcop
 	url = https://github.com/pdhoff/sbgcop
+[submodule "weatherStats"]
+	path = weatherStats
+	url = https://github.com/pdhoff/weatherstats
